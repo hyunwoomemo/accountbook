@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "coupleAccountBook",
+    "slug": "coupleAccountBook",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "coupleAccountBook"
+}
